@@ -1,0 +1,10 @@
+/Users/capslock/Desktop/wizard_samurai/bin/Debug/netcoreapp2.0/wizard_samurai.deps.json
+/Users/capslock/Desktop/wizard_samurai/bin/Debug/netcoreapp2.0/wizard_samurai.runtimeconfig.json
+/Users/capslock/Desktop/wizard_samurai/bin/Debug/netcoreapp2.0/wizard_samurai.runtimeconfig.dev.json
+/Users/capslock/Desktop/wizard_samurai/bin/Debug/netcoreapp2.0/wizard_samurai.dll
+/Users/capslock/Desktop/wizard_samurai/bin/Debug/netcoreapp2.0/wizard_samurai.pdb
+/Users/capslock/Desktop/wizard_samurai/obj/Debug/netcoreapp2.0/wizard_samurai.csproj.CoreCompileInputs.cache
+/Users/capslock/Desktop/wizard_samurai/obj/Debug/netcoreapp2.0/wizard_samurai.AssemblyInfoInputs.cache
+/Users/capslock/Desktop/wizard_samurai/obj/Debug/netcoreapp2.0/wizard_samurai.AssemblyInfo.cs
+/Users/capslock/Desktop/wizard_samurai/obj/Debug/netcoreapp2.0/wizard_samurai.dll
+/Users/capslock/Desktop/wizard_samurai/obj/Debug/netcoreapp2.0/wizard_samurai.pdb
